@@ -57,6 +57,6 @@ form button {
 
 @media only screen and (min-width: 580px) {
 	.main-section .main-section_action{
-		    flex-direction: row;
+		flex-direction: row;
 	}
 }
